@@ -6,3 +6,4 @@ The folder consists of:
 	b) hpn -- subfolder containing the HPN files generated automatically by RSSL compiler from RSSL specification of robotic systems presented in rssl subfolder
 	b) ROS -- subfolder containing automatically generated ROS C++ code for robotic systems specified in rssl subfoler.
 4) RSSL.mp4 -- video introducing the RSSL
+5) rshpn_tool.mp4 -- video introducing the RSHPN Tool
